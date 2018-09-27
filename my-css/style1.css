@@ -1,0 +1,24 @@
+.site-content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.find-location{
+	border: 1px solid #607D8B;
+	border-radius: 1000px;
+	display: flex;
+}
+
+.forecast-table{
+	display: none;
+}
+body, html{
+	background-color: #1e202b;
+	height: 100%;
+	width: 100%;
+}
+.search-button{
+	display: flex;
+	justify-content: flex-end;
+	border-radius: 1000px;
+}
